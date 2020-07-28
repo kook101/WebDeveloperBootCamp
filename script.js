@@ -91,3 +91,38 @@ var name = "Rusty";
 // Must be initialized with value
 // Does not create property on global window object
 // Cannot be redeclared (in same scope)
+
+//07 27 2020
+// Null and Undefined
+// Varialbles that are declared but not
+// initialized are undefined
+// The following variables are undefined:
+var name;
+var age;
+
+// Null is "explicitly(명쾌하게) nothing"
+var currentPlayer = "charlie";
+currentPlayer = null; //game over -> there is no currentPlayer
+
+//JavaScript Methods -> Three built in methods
+// alert
+// prompt
+// console.log
+//clear console -> clear ();
+
+// 1. alert
+// alert("Hello there!!");
+// alert(123456);
+
+// prompt
+// prompt("what is your name?");
+// var userName = prompt("what is your name?");
+// kook
+// userName 
+// "kook"
+
+
+
+// console.log("hello from the console!");
+// printing things on the console
+
