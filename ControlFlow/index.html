@@ -3,28 +3,30 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="/ControlFlow/style.css">
     <title>Boolean</title>
 </head>
 <body>
+    <div id="div_bl">
     <h3>Boolean Logic</h3>
     <p>
      Everything starts with the idea that a statement is either True or False.
     </br>
-    Then we can combine those initial statements to create more complex statesments that also evaluate to True or False Comparison Operators
+    Then we can combine those initial statements to create more complex statesments that also evaluate to True or False Comparison Operators.
     </p>
     <p>Assuming x=5</p>
-    <table id="comparisonOperator">
+    <table class="table" id="comparisonOperator">
         <tr>
-            <td>Operator</td>
-            <td>Name</td>
-            <td>Example</td>
-            <td>Result</td>
+            <td class="first">Operator</td>
+            <td class="first">Name</td>
+            <td class="first">Example</td>
+            <td class="first">Result</td>
         </tr>
         <tr>
-            <td>></td>
-            <td>Greater than</td>
-            <td>x > 10</td>
-            <td>false</td>
+            <td class="second">></td>
+            <td class="second">Greater than</td>
+            <td class="second">x > 10</td>
+            <td class="second">false</td>
         </tr>
         <tr>
             <td>>=</td>
@@ -63,12 +65,48 @@
             <td>false</td>
         </tr>
         <tr>
-            <td>!==</td>
-            <td>Now equal value or equal type</td>
-            <td>x !== 5</td>
-            <td>true</td>
+            <td class="last">!==</td>
+            <td class="last">Now equal value or equal type</td>
+            <td class="last">x !== 5</td>
+            <td class="last">true</td>
         </tr>
     </table>
+</div>
+
+<div id="div_lo">
+    <h3>Logical Operators</h3>
+    <h5>AND, OR, and NOT</h5>
+    <p>Assuming x=5 and y=9</p>
+    <table class="table" id="logicalOperator">
+        <tr>
+            <td class="first">Operator</td>
+            <td class="first">Name</td>
+            <td class="first">Example</td>
+            <td class="first">Result</td>
+        </tr>
+        <tr>
+            <td class="second">&&</td>
+            <td class="second">AND</td>
+            <td class="second">x <10 && x!==5 </td>
+            <td class="second">false</td>
+        </tr>
+        <tr>
+            <td>||</td>
+            <td>OR</td>
+            <td> y > 10 || x ===5 </td>
+            <td>true</td>
+        </tr>
+        <tr>
+            <td class="last">!</td>
+            <td class="last">NOT</td>
+            <td class="last"> !(x===y)</td>
+            <td class="last">true</td>
+        </tr>
     
+
+    
+    
+    </table>
+</div>
 </body>
 </html>

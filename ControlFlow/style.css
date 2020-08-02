@@ -1,0 +1,30 @@
+body   {
+margin-left: 2%;
+}
+
+div {
+    max-width: 550px;
+    margin: 1.0rem;
+    margin-bottom: 3.0rem;
+}
+td{
+    border-top:solid 0.2px;
+    padding: 5px;
+    padding-top: 7px;
+    padding-bottom: 7px;    
+
+}
+
+.last {
+border-bottom:black solid 1.5px;
+}
+
+.first {
+    border-top:black solid 1.5px;
+    border-bottom: solid 1.5px;
+}
+
+.second {
+    border-top:none;
+    }
+
