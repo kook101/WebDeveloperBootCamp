@@ -5,3 +5,4 @@
 <p>Section 2: An Introduction to Web Development</p>
 <p>Section 3: HTML: The Essentials</p>
 <p>Section 4: HTML: Next Steps & Semantics</p>
+<p>Section 5: HTML: Forms & Tables</p>
