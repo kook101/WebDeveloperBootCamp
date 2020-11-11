@@ -6,3 +6,4 @@
 <p>Section 3: HTML: The Essentials</p>
 <p>Section 4: HTML: Next Steps & Semantics</p>
 <p>Section 5: HTML: Forms & Tables</p>
+<p>Section 5: HTML: Forms & Tables - Radio buttons, Checkboxes & Select</p>
