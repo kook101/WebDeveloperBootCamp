@@ -8,4 +8,5 @@
 <p>Section 5: HTML: Forms & Tables</p>
 <p>Section 5: HTML: Forms & Tables - Radio buttons, Checkboxes & Select</p>
 <p>Section 5: HTML: Forms & Tables - Range & Text Area</p>
+<p>Section5: HTML: Forms & Tables - Form Validations</p>
 
