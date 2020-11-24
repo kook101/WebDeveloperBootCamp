@@ -10,4 +10,5 @@
 <p>Section 5: HTML: Forms & Tables - Range & Text Area</p>
 <p>Section 5: HTML: Forms & Tables - Form Validations</p>
 <p>Section 6: CSS: The Very Basics</p>
+<p>Section 6: CSS: Color - RGB / Named Colors / Hexadecimal </p>
 
