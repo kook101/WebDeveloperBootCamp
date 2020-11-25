@@ -11,4 +11,5 @@
 <p>Section 5: HTML: Forms & Tables - Form Validations</p>
 <p>Section 6: CSS: The Very Basics</p>
 <p>Section 6: CSS: Color - RGB / Named Colors / Hexadecimal </p>
+<p>Section 6: CSS: Text properties  </p>
 
