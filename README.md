@@ -13,4 +13,4 @@
 <p>Section 6: CSS: Color - RGB / Named Colors / Hexadecimal </p>
 <p>Section 6: CSS: Text properties  </p>
 <p>Section 6: CSS: Selectors  </p>
-
+<p>Section 6: CSS: Selectors - Universal Element ID </p>
