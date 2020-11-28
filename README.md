@@ -14,3 +14,4 @@
 <p>Section 6: CSS: Text properties  </p>
 <p>Section 6: CSS: Selectors  </p>
 <p>Section 6: CSS: Selectors - Universal Element ID </p>
+<p>Section 6: CSS: Selectors - Class Descendent Adjacent Direct-descendent </p>
