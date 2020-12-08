@@ -16,3 +16,4 @@
 <p>Section 6: CSS: Selectors - Universal Element ID </p>
 <p>Section 6: CSS: Selectors - Class Descendent Adjacent Direct-descendent </p>
 <p>Section 6: CSS: Selectors - Attribute selector </p>
+<p>Section 6: CSS: Selectors - Pseudo selector </p>
