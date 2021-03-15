@@ -18,3 +18,4 @@
 <p>Section 6: CSS: Selectors - Attribute selector </p>
 <p>Section 6: CSS: Selectors - Pseudo selector </p>
 <p>Section 6: CSS: Selectors - Checkerboard exercise </p>
+<p>Section 6: CSS: Cascade / Specificity </p>
