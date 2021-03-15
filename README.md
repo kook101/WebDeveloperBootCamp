@@ -18,4 +18,5 @@
 <p>Section 6: CSS: Selectors - Attribute selector </p>
 <p>Section 6: CSS: Selectors - Pseudo selector </p>
 <p>Section 6: CSS: Selectors - Checkerboard exercise </p>
-<p>Section 6: CSS: Cascade / Specificity </p>
+<p>Section 6: CSS: Cascade / Specificity</p>
+<p>Specificity is how the browser decides which rules to apply when multiple rules could apply to the same element. It is a measure of how specific a given selector is. The more specific selector "wins"</p>
