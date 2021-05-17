@@ -22,3 +22,5 @@
 <p>Specificity is how the browser decides which rules to apply when multiple rules could apply to the same element. It is a measure of how specific a given selector is. The more specific selector "wins"</p>
 <p>!important - most powerful</p>
 <p>Box model - Everything in CSS is the box</p>
+<p>Opacity & Alpha channel</p>
+<p></p>
